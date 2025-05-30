@@ -36,7 +36,7 @@ Bu proje, Miuul tarafından sağlanan **miuul_gezinomi.xlsx** veri seti ile ger�
 ---
 ## Öğrendiklerim
 
-- Gerçek bir veri setinde veri temizliğinin ve görselleştirmenin önemi
+- Gerçek bir veri setinde veri temizliğinin önemi
 - Segmentasyon için özellik mühendisliği uygulamaları
 - Aykırı değerleri silmeden daha yaratıcı çözümler üretmenin etkisi
 - Veri odaklı düşünmenin analitik bakış açısını nasıl geliştirdiği
