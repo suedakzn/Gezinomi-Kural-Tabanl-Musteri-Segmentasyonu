@@ -1,0 +1,1 @@
+# Gezinomi-Kural-Tabanl-Musteri-Segmentasyonu
